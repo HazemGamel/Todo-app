@@ -5,5 +5,7 @@ This application through which you can record your observations and at the time 
 
 
 # tools 
-##sqllite 
-##local notifications
+sqllite 
+local notifications
+state manadement (Getx)
+clean code with mvc arcitecture
